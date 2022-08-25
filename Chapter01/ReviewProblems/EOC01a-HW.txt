@@ -1,0 +1,44 @@
+Review Exercises
+    1.1. Explain the difference between using a computer
+    program and programming a computer.
+        - Using a computer program entails being able to
+        navigate the program's (oftentimes called an 'app')
+        after it has already been designed through
+        programming. Programming a computer, on the other
+        hand, entails writing the code and (among other
+        things) that delineate what a computer can do.
+
+    1.2. Which parts of a computer can store program code?
+    Which can store user data?
+        - Program code can be stored in Secondary Storage
+        (e.g., Hard Disk, SSD), and user data can be 
+        stored in Primary Storage (i.e., Memory).
+
+    1.3. Which parts of a computer serve to give
+    information to the user? Which parts take user input?
+        - Parts that give information to the user (i.e., 
+        output parts) include the display screen and
+        speaker. Parts that take in user input (ie..,
+        input parts) include the keyboard and mouse.
+
+    1.5. Explain the benefits of using Java over
+    machine code.
+        - Java can run on different operating systems
+        through the use of Java virtual machines.
+        - Java is readable compared to machine code
+        (1s and 0s)
+
+    1.7. What does the program print?
+        - "39+3" then "42
+    
+    1.9. What is the compile-time error in the program?
+        - the `println` method cannot take in two
+        string arguments
+
+    1.11. How do you discover syntax errors?
+    How do you discover logic errors?
+        - Syntax errors can be discovered using the
+        error messages that are displayed after
+        compile-time. Logic errors are discovered
+        after comparing the actual program output with 
+        the expected output for the program.  
