@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rectangle\ here.\n\n\ @author\ Michael\ Angelo\ Catapang\n\ @version\ 09/01/22\n
+comment1.params=
+comment1.target=Rectangle()
+comment2.params=val\ msg
+comment2.target=Rectangle(int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=
+comment4.target=int\ getHeight()
+comment5.params=
+comment5.target=void\ getDimensions()
+numComments=6
