@@ -7,6 +7,11 @@
  */
 public class ReplaceTester
 {
+    public static void main(String args[]) {
+        ReplaceTester tester = new ReplaceTester();
+        tester.ReverseTester();
+    }
+
     public ReplaceTester()
     {
         String word = "Mississippi";
@@ -14,5 +19,12 @@ public class ReplaceTester
         newWord = newWord.replace('s', '$');
         System.out.println("The word is " + word);
         System.out.println("The encoded string is " + newWord);
+    }
+
+    public void ReverseTester() {
+        StringBuilder myString = new StringBuilder();
+        myString.append("desserts");
+        myString.reverse();
+        System.out.println(myString.toString());
     }
 }
